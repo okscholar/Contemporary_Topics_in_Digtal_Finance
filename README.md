@@ -5,6 +5,6 @@
 
 I was appointed to develop and deliver the second  half of a new module titled “Contemporary Topics in Digital Finance” on the postgraduate level. I did this job by myself, given my knowledge and industry experience, with no help provided (though I wasn't  a module leader).
 
-* **Topic 1. Central Bank Digital Currencies (CBDCs)**;
-* **Topic 2. Carbon Footprint of Artificial Intelligence (AI), FinTech and Crypto Industry**; 
-* **Topic 3. Cybersecurity in the Modern World**.
+- **Topic 1. Central Bank Digital Currencies (CBDCs)**;
+- **Topic 2. Carbon Footprint of Artificial Intelligence (AI), FinTech and Crypto Industry**; 
+- **Topic 3. Cybersecurity in the Modern World**.
